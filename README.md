@@ -1,0 +1,2 @@
+# premium-reed-organ-001-reed-organ-restoration-progres
+Tired of scattered notes, forgotten steps, and losing track of your reed organ's restoration journey? This Notion template is your single source of truth.  This template is built specifically for reed organ restoration, not generic project management. It provides a structured workflow from initial assessment to final tuning, with fields for each or
